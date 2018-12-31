@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menus>
+    <Menu>
+        <Restaurant>Ylioppilastalo</Restaurant>
+        <Date>17/12/2018</Date>
+        <BasicFood>Jauhelikastike</BasicFood>
+        <VegetarianFood>Juuresletut</VegetarianFood>
+        <Soup>Kasviskeitto</Soup>
+        <Salad>Salaattibaari</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Laseri</Restaurant>
+        <Date>17/12/2018</Date>
+        <BasicFood>Kaalilaatikko</BasicFood>
+        <VegetarianFood>Kasvispiirakka</VegetarianFood>
+        <Soup>Kalakeitto</Soup>
+        <Salad>Juustosalaatti</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>LUT Buffet</Restaurant>
+        <Date>17/12/2018</Date>
+        <BasicFood>Kinkkukastike</BasicFood>
+        <VegetarianFood>Pinaattiletut</VegetarianFood>
+        <Soup>Koskenlaskijan lohikeitto</Soup>
+        <Salad>Juustohampurilainen</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Ylioppilastalo</Restaurant>
+        <Date>18/12/2018</Date>
+        <BasicFood>Broilerikastike</BasicFood>
+        <VegetarianFood>Juustomestarin kiusaus</VegetarianFood>
+        <Soup>Lihakeitto</Soup>
+        <Salad>Salaattibaari</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Laseri</Restaurant>
+        <Date>18/12/2018</Date>
+        <BasicFood>Tomaattinen nakkikastike</BasicFood>
+        <VegetarianFood>Kasvistortillat</VegetarianFood>
+        <Soup>Juustoinen kasviskeitto</Soup>
+        <Salad>Kalkkunasalaatti</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>LUT Buffet</Restaurant>
+        <Date>18/12/2018</Date>
+        <BasicFood>Naudanlihapasta</BasicFood>
+        <VegetarianFood>Chili con vege</VegetarianFood>
+        <Soup>Parsakaalikeitto</Soup>
+        <Salad>Broileria ja punaviinikastiketta</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Ylioppilastalo</Restaurant>
+        <Date>19/12/2018</Date>
+        <BasicFood></BasicFood>
+        <VegetarianFood></VegetarianFood>
+        <Soup></Soup>
+        <Salad></Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Laseri</Restaurant>
+        <Date>19/12/2018</Date>
+        <BasicFood>Pekoninen broileri-kasviskastike</BasicFood>
+        <VegetarianFood>Kasvis-papukroketit</VegetarianFood>
+        <Soup>Sipulikeitto</Soup>
+        <Salad>Katkarapusalaatti</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>LUT Buffet</Restaurant>
+        <Date>19/12/2018</Date>
+        <BasicFood>Savulohi-pastavuokaa</BasicFood>
+        <VegetarianFood>Porkkanapyörykät</VegetarianFood>
+        <Soup>Italialaista papukeittoa</Soup>
+        <Salad></Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Ylioppilastalo</Restaurant>
+        <Date>20/12/2018</Date>
+        <BasicFood></BasicFood>
+        <VegetarianFood></VegetarianFood>
+        <Soup></Soup>
+        <Salad></Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Laseri</Restaurant>
+        <Date>20/12/2018</Date>
+        <BasicFood>Lohipyörykät</BasicFood>
+        <VegetarianFood>Juuresratatouille</VegetarianFood>
+        <Soup>Porkkana-inkiväärikeitto</Soup>
+        <Salad>Kinkkusalaatti</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>LUT Buffet</Restaurant>
+        <Date>20/12/2018</Date>
+        <BasicFood>Jauhelihakastike</BasicFood>
+        <VegetarianFood>Pinaattinen kasvispata</VegetarianFood>
+        <Soup>Kasvishernekeitto</Soup>
+        <Salad></Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Ylioppilastalo</Restaurant>
+        <Date>21/12/2018</Date>
+        <BasicFood></BasicFood>
+        <VegetarianFood></VegetarianFood>
+        <Soup></Soup>
+        <Salad></Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>Laseri</Restaurant>
+        <Date>21/12/2018</Date>
+        <BasicFood>Pasta bolognese</BasicFood>
+        <VegetarianFood>Kasvispyörykät</VegetarianFood>
+        <Soup>Tomaatti-papukeitto</Soup>
+        <Salad>Talon salaatti</Salad>
+    </Menu>
+    <Menu>
+        <Restaurant>LUT Buffet</Restaurant>
+        <Date>21/12/2018</Date>
+        <BasicFood>Broileripyörykät</BasicFood>
+        <VegetarianFood>Kasvisgratiini</VegetarianFood>
+        <Soup>Riisipuuro</Soup>
+        <Salad></Salad>
+    </Menu>
+</Menus>
